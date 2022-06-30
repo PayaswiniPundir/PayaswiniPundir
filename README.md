@@ -13,4 +13,5 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: Email - payaswiniiosdev@gmail.com | Twitter - https://twitter.com/Payaswinipundir
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I wanted to be a traveller😋
-
+- 💼 any freelance work? do reach, [email](payaswiniiosdev@gmail.com "email")  😊 
+- 💬 ask me about anything, i am happy to help
