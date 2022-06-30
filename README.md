@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on any open source projects involving iOS.
 - 🤔 I’m looking for help with using advanced SwiftUI.
 - 💬 Ask me about topics related to Swift, iOS, writing.
-- 📫 How to reach me: Email - payaswiniiosdev@gmail.com | Twitter - @Payaswinipundir
+- 📫 How to reach me: Email - payaswiniiosdev@gmail.com | Twitter - https://twitter.com/Payaswinipundir
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I wanted to be a traveller😋
 
